@@ -42,7 +42,7 @@ Functional Programming Principles in Scala — *École Polytechnique Fédérale 
 
 Cryptography — *Stanford University/Coursera (2013)*
 
-CSS3 (Master's Level) — *Brainbench, Inc. (October 23th, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
+CSS3 (Master's Level) — *Brainbench, Inc. (October 23rd, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
 
 Ruby 1.9 (Master's Level) — *Brainbench, Inc. (October 19th, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
 
