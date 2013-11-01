@@ -11,9 +11,9 @@ tags:
 
 I've recently taken an [online course on cryptography][1], which is taught on Coursera by Dan Boneh, Professor of CS and EE at Stanford University. I can't praise the course enough for its thoroughness and reasoning about pretty much everything you'd want to know about cryptography and I strongly advise anyone interested to give it a try.
 
-Programming assignments are one of the particular features of the course. Even though they are not required to obtain a certificate, they still are fun and challenging exercises, strengthening your grasp of cryptography theory. The choice of how exactly you will complete assignments is yours alone, any programming language or style is fine. This post is for those who prefer using Ruby for just about anything.
+Programming assignments are one of the particular features of the course. Even though they are not required to obtain a certificate, they still are fun and challenging exercises, strengthening your grasp of cryptography theory. The choice of how exactly you will complete assignments is up to you, any programming language or style is fine. This post is for those who prefer using Ruby for just about anything.
 
-As part of your implementation, you are required to manipulate very big numbers in some peculiar ways, and instead of seeking help from Ruby native citizens like `Bignum` or `BigDecimal`, my suggestion is to use the blazing fast C library [GMP][2] and [GMP RubyGem][3] which provides Ruby bindings to GMP.
+As part of your implementation, you are required to manipulate very large numbers in some peculiar ways, and instead of seeking help from Ruby native citizens like `Bignum` or `BigDecimal`, my suggestion is to use the blazing fast C library [GMP][2] and [GMP RubyGem][3] which provides Ruby bindings to GMP.
 
 ## Preparations
 
@@ -88,7 +88,7 @@ include GMP
 Z(10).sqrt                  # => 3
 Z(7).invert(17)             # => 5
 Z(5).powmod(5, 7)           # => 3
-((Z(93)**94)**95)**96       # => really big number computed very fast
+((Z(93)**94)**95)**96       # => really large number computed very fast
 ```
 
 ## Actual answers to the course assignments
