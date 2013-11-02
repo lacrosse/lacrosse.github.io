@@ -93,7 +93,7 @@ Z(5).powmod(5, 7)           # => 3
 
 ## Actual answers to the course assignments
 
-...are somewhere else.
+You will not find them here.
 
 [1]: https://www.coursera.org/course/crypto "Cryptography I on Coursera"
 [2]: http://gmplib.org "GMP"
