@@ -18,7 +18,7 @@ p, ul, ol, table, pre, dl {
 
 ul {
   list-style-type: none;
-  padding: 0;
+  /*padding: 0;*/
 }
 
 h1, h2, h3 {
@@ -201,6 +201,10 @@ footer {
 /* Disqus */
 #disqus_thread {
   margin-top: 50px;
+}
+
+.wrapper-cv i.fa-external-link {
+  margin-left: 3px;
 }
 
 @media print, screen and (max-width: 960px) {

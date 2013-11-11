@@ -2,6 +2,8 @@
 layout: cv
 ---
 
+# Curriculum vitae
+
 ## Spoken Languages
 
 * Russian (native)
@@ -38,14 +40,14 @@ layout: cv
 
 ## Certifications
 
-Functional Programming Principles in Scala — *École Polytechnique Fédérale de Lausanne/Coursera (2013)*
+* Functional Programming Principles in Scala — *École Polytechnique Fédérale de Lausanne/Coursera (2013)*
 
-Cryptography — *Stanford University/Coursera (2013)*
+* Cryptography — *Stanford University/Coursera (November 10th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/crypto_2013.pdf)
 
-CSS3 (Master's Level) — *Brainbench, Inc. (October 23rd, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
+* CSS3 (Master's Level) — *Brainbench, Inc. (October 23rd, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
 
-Ruby 1.9 (Master's Level) — *Brainbench, Inc. (October 19th, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
+* Ruby 1.9 (Master's Level) — *Brainbench, Inc. (October 19th, 2013)* [<i class="fa fa-external-link"></i>](http://www.brainbench.com/transcript.jsp?pid=11030452)
 
-M101P: MongoDB for Developers — *MongoDB, Inc. (May 21st, 2013)* [<i class="fa fa-external-link"></i>](http://education.10gen.com/downloads/certificates/6cb0e76fd7d641f0ae24ef782ea187f9/Certificate.pdf)
+* M101P: MongoDB for Developers — *MongoDB, Inc. (May 21st, 2013)* [<i class="fa fa-external-link"></i>](http://education.10gen.com/downloads/certificates/6cb0e76fd7d641f0ae24ef782ea187f9/Certificate.pdf)
 
-Council of Europe English language certification (CEFR B2 Level) — *Tomsk State University of Control Systems and Radioelectronics (May 2010)*
+* Council of Europe English language certification (CEFR B2 Level) — *Tomsk State University of Control Systems and Radioelectronics (May 2010)*
