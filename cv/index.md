@@ -40,7 +40,7 @@ layout: cv
 
 ## Certifications
 
-* Functional Programming Principles in Scala — *École Polytechnique Fédérale de Lausanne/Coursera (2013)*
+* Functional Programming Principles in Scala — *École Polytechnique Fédérale de Lausanne/Coursera (November 26th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/scala_2013.pdf)
 
 * Cryptography — *Stanford University/Coursera (November 10th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/crypto_2013.pdf)
 
