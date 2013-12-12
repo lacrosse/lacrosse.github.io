@@ -1,0 +1,14 @@
+---
+domain: http://lacrosse.github.io
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for sitePost in site.posts %}<url>
+    <loc>{{ page.domain }}{{ sitePost.url }}</loc>
+    <lastmod>{{ sitePost.date | date: "%F" }}</lastmod>
+  </url>{% endfor %}
+  {% for sitePage in site.pages %}{% if sitePage.layout == "default" %}<url>
+    <loc>{{ page.domain }}{{ sitePage.url | remove: 'index.html' }}</loc>
+  </url>{% endif %}{% endfor %}
+</urlset>
