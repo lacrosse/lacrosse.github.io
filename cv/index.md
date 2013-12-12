@@ -40,6 +40,8 @@ layout: cv
 
 ## Certifications
 
+* Søren Kierkegaard — Subjectivity, Irony and the Crisis of Modernity — *Københavns Universitet/Coursera (December 11th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/kierkegaard_2013.pdf)
+
 * Functional Programming Principles in Scala — *École Polytechnique Fédérale de Lausanne/Coursera (November 26th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/scala_2013.pdf)
 
 * Cryptography — *Stanford University/Coursera (November 10th, 2013)* [<i class="fa fa-external-link"></i>](/files/certs/crypto_2013.pdf)
