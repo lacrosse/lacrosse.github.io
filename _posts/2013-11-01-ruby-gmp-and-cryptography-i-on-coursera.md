@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ruby, GMP and Cryptography I on Coursera
+mathjax: true
 comments: true
 tags:
   - ruby
