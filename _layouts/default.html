@@ -18,6 +18,7 @@
         </p>
       </header>
       <section>
+        {% if page.date %}<small class="pull-right">{{ page.date | date: "%B %-e, %Y" }}</small>{% endif %}
         {{ content }}
         {% if page.comments %}{% include disqus.html %}{% endif %}
       </section>
