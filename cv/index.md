@@ -12,9 +12,9 @@ layout: cv
 
 ## Technical Skills
 
-* Ruby *(1.8.6, 1.9.3, 2.0.0)*
+* Ruby *(1.9.3, 2.0.0, 2.1.0)*
 
-* Ruby on Rails *(~> 2.3.0, ~> 3.2.0, ~> 4.0.0)*
+* Ruby on Rails *(~> 3.2.0, ~> 4.0.0, ~> 4.1.0)*
 
 * MySQL, PostgreSQL, SQLite, MongoDB, DynamoDB
 
