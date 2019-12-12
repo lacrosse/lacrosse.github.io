@@ -18,22 +18,22 @@ As part of your implementation, you are required to manipulate very large number
 
 ## Preparations
 
-1. Make sure you have Ruby, RubyGems and GMP library installed and working.
+1.  Make sure you have Ruby, RubyGems and GMP library installed and working.
 
-2. Install the gem:
+2.  Install the gem:
 
-  ```bash
-  $ gem install gmp
-  ```
+    ~~~bash
+    $ gem install gmp
+    ~~~
 
-3. Include `GMP` into the namespace:
+3.  Include `GMP` into the namespace:
 
-  ```ruby
-  require 'gmp'
-  include GMP
-  ```
+    ~~~ruby
+    require 'gmp'
+    include GMP
+    ~~~
 
-4. Use your \\(\mathbb{Z}\\) superpowers wisely.
+4. Use your $$\mathbb{Z}$$ superpowers wisely.
 
 ## What are these superpowers?
 
